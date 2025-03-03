@@ -1,0 +1,3 @@
+python -m uvicorn api:app --reload
+
+ngrok http 8000
